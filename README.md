@@ -13,4 +13,4 @@ source ./mklib.sh
 ```
 
 ## Example Code
-[Test.c](https://github.com/AUDIY/WAVIO/blob/main/Test.c) is an example to read audio aata into structs & copy to new audio files.
+[Test.c](https://github.com/AUDIY/WAVIO/blob/main/Test.c) is an example to read audio data into structs & copy to new audio files.
